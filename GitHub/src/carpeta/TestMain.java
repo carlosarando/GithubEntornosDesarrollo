@@ -24,6 +24,6 @@ public class TestMain {
             fortalezaPassword[i]=listaPassword[i].esFuerte();
             System.out.println(listaPassword[i].getContraseña()+" "+fortalezaPassword[i]);
     }
-    
+    System.out.println("Buenas tardes, tenga uste");
 }
 }
